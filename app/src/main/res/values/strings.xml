@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="name">Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="date">Date</string>
+    <string name="password_0_9">Pass</string>
+    <string name="submit">Valider</string>
+    <string name="contact_number"></string>
+</resources>
